@@ -1,0 +1,12 @@
+{
+    "environment": "api_demo",
+
+    "env": {
+        "glue_url": "https://reqres.in"
+    },
+    "users": {
+        "user_email":"janet.weaver@reqres.in",
+        "user_name": "Janet",
+        "user_occupation": "QA"
+    }
+}

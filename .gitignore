@@ -1,0 +1,14 @@
+
+*.html
+Results/
+*.png
+*.log
+settings.json
+.DS_Store
+/.idea
+/User_Journeys/output.xml
+resources/libraries/__pycache__
+/.vscode
+output.xml
+playwright-log.txt
+interactive_console_output.xml
