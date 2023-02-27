@@ -1,0 +1,11 @@
+{
+    "environment": "ui_demo", 
+
+    "env": {
+        "host": "https://www.saucedemo.com/"
+    },
+    "users":{
+        "user_email":"standard_user",
+        "user_password": "secret_sauce"
+    }
+}
