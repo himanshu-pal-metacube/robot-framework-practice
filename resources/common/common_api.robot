@@ -76,7 +76,7 @@ Load Variables
     ...
     ...    ``Load Variables    api_demo``
     [Arguments]    ${env}
-    &{vars}=   Define Variables From Json File    ${env}
+    &{vars}=   Define Environment Variables From Json File    ${env}
     FOR    ${key}    ${value}    IN    &{vars}
         Log    Key is '${key}' and value is '${value}'.
         Set Global Variable    ${${key}}    ${value}
