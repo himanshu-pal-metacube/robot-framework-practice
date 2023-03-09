@@ -11,7 +11,6 @@ Library    Telnet
 Library    RequestsLibrary
 Library    DatabaseLibrary
 
-
 *** Variables ***
 # *** SUITE VARIABLES ***
 ${env}                 ui_demo
