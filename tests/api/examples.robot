@@ -9,6 +9,6 @@ Examples
     I set Headers:    Content-Type=application/test  Accept=application/new-test
     When I send a GET request:    /api/users/2
     Then Response status code should be:    200
-    And Response reason should be:    OK
+    And Response reason should be:    OK 
 
     
